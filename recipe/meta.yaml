@@ -26,8 +26,6 @@ test:
   commands:
     - talisman --version
 
-
-about:
 about:
   home: https://thoughtworks.github.io/talisman/
   summary: Talisman searches for files that look suspicious — such as tokens, passwords, and private keys.
