@@ -48,5 +48,5 @@ about:
 
 extra:
   feedstock-name: talisman
-  recipemaintainers:
+  recipe-maintainers:
     - carterbox
