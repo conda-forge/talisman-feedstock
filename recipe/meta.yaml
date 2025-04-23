@@ -19,7 +19,8 @@ build:
 
 requirements:
   build:
-    - {{ compiler('go') }} 1.18
+    # https://github.com/thoughtworks/talisman/blob/main/go.mod
+    - {{ compiler('go') }} 1.23
     - go-licenses
 
 test:
