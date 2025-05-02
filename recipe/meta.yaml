@@ -1,4 +1,4 @@
-{% set version = "1.36.1" %}
+{% set version = "1.37.0" %}
 
 package:
   name: talisman
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/thoughtworks/talisman/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: 07a21ea67e47c7e0440bba8f2f39247860272d3ee4b18ef2dac5fb5e88b520e8
+  sha256: 40f9ab7d43fadf75abe7a4d71fac5ff083f71b63afada282146827725460d2d1
 
 build:
   number: 0
