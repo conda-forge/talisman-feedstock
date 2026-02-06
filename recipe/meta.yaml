@@ -9,7 +9,7 @@ source:
   sha256: 40f9ab7d43fadf75abe7a4d71fac5ff083f71b63afada282146827725460d2d1
 
 build:
-  number: 0
+  number: 1
   script:
     - mkdir -p gopath/bin  # [unix]
     - export GOPATH=$(pwd)/gopath  # [unix]
